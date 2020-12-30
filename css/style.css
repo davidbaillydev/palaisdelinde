@@ -32,7 +32,8 @@ body {
 
 
 a {
-    color: #1f1f1f;
+    /* color: #1f1f1f; */
+    color: white;
     text-decoration: none !important;
     outline: none !important;
     -webkit-transition: all .3s ease-in-out;
@@ -93,7 +94,8 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-    color: #212121;
+    /* color: #212121; */
+    color: white;
     text-decoration: none!important;
     opacity: 1
     
