@@ -32,8 +32,7 @@ body {
 
 
 a {
-    /* color: #1f1f1f; */
-    color: white;
+    color: #1f1f1f;
     text-decoration: none !important;
     outline: none !important;
     -webkit-transition: all .3s ease-in-out;
@@ -94,8 +93,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-    /* color: #212121; */
-    color: white;
+    color: #212121;
     text-decoration: none!important;
     opacity: 1
     
@@ -349,6 +347,7 @@ button:focus{
 	font-weight: 500;
 	font-size: 84px;
     color: #fff;
+ 
   text-decoration-style: solid;
 }
 .cover-slides p{
